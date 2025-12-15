@@ -1,4 +1,4 @@
-# Wireshark Packet Capture & Analysis (Host-Only Lab)
+# Wireshark Packet Capture & Analysis
 
 ## Author: **Ayan Dhokle** 
 
